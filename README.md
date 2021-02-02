@@ -4,5 +4,7 @@
 
 
 https://www.youtube.com/watch?v=pFXYym4Wbkc&t=53s
+
 instructor : clement mihailescu
+
 instructor's github : https://github.com/clementmihailescu/Sorting-Visualizer-Tutorial
